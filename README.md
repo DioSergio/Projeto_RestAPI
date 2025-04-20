@@ -1,7 +1,7 @@
 
 # CRUD de Criptomoedas com CoinMarketCap
 
-Este projeto realiza um CRUD (Create, Read, Update, Delete) de criptomoedas utilizando dados da API do CoinMarketCap e uma API REST personalizada feita em Python puro.
+Este projeto realiza um CRUD (Create, Read, Update, Delete) de criptomoedas utilizando dados da API do CoinMarketCap e uma API REST personalizada feita em Python.
 
 ## Objetivos
 
