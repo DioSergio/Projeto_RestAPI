@@ -1,0 +1,30 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Pastas de ambientes virtuais
+.venv/
+env/
+venv/
+
+# Pastas e arquivos de configuração de IDE
+.idea/
+.vscode/
+
+# Arquivos de log
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de cache
+*.cache
+
+# Arquivos de banco de dados SQLite
+*.db
+*.sqlite3
+
+# Arquivos temporários
+*.tmp
